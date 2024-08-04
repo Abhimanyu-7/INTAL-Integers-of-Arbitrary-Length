@@ -6,6 +6,6 @@ C by default has no such support.
 This mini project aims to bring that support to C language along with basic Arithmetic operations like Comparison, Addition, Substraction, 
 and Multiplication along with applications like Factorial, Fibonacci, etc.
 
-# Project Stages
+## Project Stages
 ![image](https://github.com/user-attachments/assets/b0e0334c-deb3-4973-8a09-34c1d8747e11)
 
